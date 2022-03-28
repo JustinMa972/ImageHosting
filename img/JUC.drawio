@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T01:55:02.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="AvNgrDxAXWfmBYwhLFVb" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T02:27:48.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Dn8aqnI-Fl698gj3ecnU" version="17.2.4" type="github">
   <diagram id="xn7IB639SFD_PB0dudpU" name="第 1 页">
     <mxGraphModel dx="1038" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9D5otIIhs6nw2Z6nvrL-5" value="MyClass" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c9D5otIIhs6nw2Z6nvrL-8" value="继承重写Run" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="300" y="60" width="120" height="30" as="geometry" />
+        <mxCell id="c9D5otIIhs6nw2Z6nvrL-8" value="继承类后重写Run" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
